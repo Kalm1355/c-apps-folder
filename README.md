@@ -1,2 +1,2 @@
 # c-apps-folder
-Holds all my C applications
+A simple placeholder for all my C projects
