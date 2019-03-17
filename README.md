@@ -1,3 +1,3 @@
 # c-apps-folder
-A simple placeholder for all my C projects
-"# c-apps-folder" 
+Very simple applications in C that I made just for fun
+"# c-apps-folder"
